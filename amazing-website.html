@@ -43,7 +43,7 @@
     <h1>Welcome to My Personal Website</h1>
     <p>Thank you for visiting my website. Here, you will find information about me and my work.</p>
     
-    <p>For more information, please visit my <a href="https://www.aiouedupak.com" class="link">amazing educational website</a>.</p>
+    <p>For more information, please visit my <a href="https://aiouedupak.com" class="link">amazing educational website</a>.</p>
   </div>
 </body>
 </html>
